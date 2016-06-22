@@ -2,7 +2,7 @@
 -avocado
 -onion
 -pepper
--lemon
+-lime
 -salt
 
 # Instructions
