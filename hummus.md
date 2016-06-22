@@ -1,4 +1,4 @@
 # Ingredients
-	- chickpeas
+	- chickas
 	- garlic
 # Instructions
